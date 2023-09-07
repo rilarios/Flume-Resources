@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/flume-ng-core-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/flume-ng-sdk-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/flume-ng-configuration-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/snmp4j-2.3.4.jar" sourcepath="D:/Analitica/Real Time POC/Flume-jars/snmp4j-2.3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mq.commonservices.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mq.headers.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mq.pcf.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/CasoMQ/libMQI/connector.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/flumeCustomAgent/jars/jt400.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/flumeCustomAgent/jars/commons-dbcp-1.4.jar" sourcepath="D:/Analitica/Seguridad_Fase2/flumeCustomAgent/jars/commons-dbcp-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Seguridad_Fase2/flumeCustomAgent/jars/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/flume-ng-hbase-sink-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/hbase-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Analitica/Real Time POC/Flume-jars/hbase-common-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaTools/HBaseConnector/HBaseConnectorFull.jar"/>
+	<classpathentry kind="lib" path="D:/Instaladores/BouncyCastle-Seguridad/bcprov-jdk15on-156.jar"/>
+	<classpathentry kind="lib" path="D:/scala/jars Hadoop/commons-codec-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
